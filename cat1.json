@@ -1,0 +1,36 @@
+[
+  {
+    
+    "i": 1,
+    "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
+    "t": "තාක්ෂණික පුවත් ",
+    "ic": "https://raw.githubusercontent.com/TSCSOftware/asst/main/techn.jpg",
+    "bgi":"https://raw.githubusercontent.com/TSCSOftware/asst/main/techn.jpg"
+  },
+  {
+    
+    "i": 1,
+    "r": "",
+    "t": "ගීයක අරුත ",
+    "ic": "https://raw.githubusercontent.com/TSCSOftware/asst/main/music.jpg",
+    "bgi":"https://raw.githubusercontent.com/TSCSOftware/asst/main/music.jpg"
+  },
+   
+   
+   {
+    
+    "i": 1,
+    "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=234&_embed",
+    "t": " තාරකාවිද්‍යාව",
+    "ic": "https://raw.githubusercontent.com/TSCSOftware/asst/main/astro.jpg",
+    "bgi":"https://raw.githubusercontent.com/TSCSOftware/asst/main/astro.jpg"
+  },
+  {
+    
+    "i": 1,
+    "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=706351872&_embed",
+    "t": "අත්තම්මගේ බණ කතා",
+    "ic": "https://raw.githubusercontent.com/TSCSOftware/asst/main/bana.jpg",
+    "bgi":"https://raw.githubusercontent.com/TSCSOftware/asst/main/bana.jpg"
+  }
+  ]
